@@ -1,15 +1,17 @@
-# GraphicPlus
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+<br>
 
-Parallel printer card for Apple II
+# GrapplerMinus
 
-A clone of Orange Micro's Grappler+ printer card, from their published schematic, with the known bugfixes of their later revisions applied.
+I didn't know the structure of Grappler Plus in the early stages, so I turned my attention to Brad Bell 's clone project on the GitHub. I also asked Brad if he would allow me to redesign the Grappler Plus PCB by removing the interface for this purpose. He was kind and allowed it,and fork from his repository
 
-Component values not specified on the original schematic:
+# SoftSP DIY
 
-* C2, C4, C5, C5 - bypass capactors, 100nF should be fine.
-* C1, C3, C7, C8 - on photos I've seen, C1 is 100pF, C3 is 470pF, C7 is 100pF. 100p for C8 should be fine as well.
-* D1 - signal diode, 1n4148, 1n914, etc should be fine.
+This card is designed to use "SoftSP DIY" ROM.
+SoftSP DIY is a product of Wing Yeung, MFA2 WorkShop(Aka.KbooHK) and used with permission.
+http://www.mfa2lab.com
 
-If you only want to use this as a firmware expansion card (i.e. for SoftSP), you can omit U5, U6, U10, U11, S1, D1, and J2.
+Chris Torrence 's store CT6502 sells SoftSP. I recommend this if you want a complete SoftSP:
+https://ct6502.org/product/softsp/
 
-Pins 2,4,6,8 of the port header are left unconnected for maximum compatibility with common PC parallel port IDC26F to DB25F dongles. If you need those pins to be connected to ground as in the original Grappler cards, short jumpers JP1,JP2,JP3,JP4.
+
