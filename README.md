@@ -20,6 +20,8 @@ http://www.mfa2lab.com
 Chris Torrence 's store CT6502 sells SoftSP. I recommend this if you want a complete SoftSP:
 https://ct6502.org/product/softsp/
 
+*The copyright and handling of SoftSP DIY is subject to the MFA2 WorkShop license.
+
 ## Gerber files
 
 Coming soon
