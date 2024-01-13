@@ -3,7 +3,7 @@
 
  <img src="Pictures/GM_TOP.png" width="520px"><BR><BR>
 
-# GrapplerMinus
+# Grappler Minus
 
 I didn't know the structure of Grappler Plus in the early stages, so I turned my attention to Brad Bell 's clone project on the GitHub. I also asked Brad if he would allow me to redesign the Grappler Plus PCB by removing the interface for this purpose. He was kind and allowed it,and fork from his repository.<br><br>
 
@@ -20,7 +20,6 @@ http://www.mfa2lab.com
 Chris Torrence 's store CT6502 sells SoftSP. I recommend this if you want a complete SoftSP:
 https://ct6502.org/product/softsp/
 
-*The copyright and handling of SoftSP DIY is subject to the MFA2 WorkShop license.
 
 ## Gerber files
 
@@ -34,6 +33,12 @@ Coming soon
 
 Apple IIPlus, Apple IIe
 *Apple ///: Possibly bootable if supported onboard ROM.
+
+## License
+Grappler Minus is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Your personal use is permitted, but not for sale.<BR><BR>
+The copyright and handling of "SoftSP DIY" is subject to the [MFA2 WorkShop](http://www.mfa2lab.com) license. used with permission.
+
+
 
 
 
