@@ -27,7 +27,7 @@ https://ct6502.org/product/softsp/
 
 ## Gerber files
 
-Coming soon
+You can use it by compressing this [Gerber](GERBER_GH_DIY) folder and uploading it to JLCPCB as it is.
 
 ## Assemble
 
