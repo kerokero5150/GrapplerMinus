@@ -55,6 +55,11 @@ Coming soon
 Apple IIPlus, Apple IIe
 *Apple ///: Possibly bootable if supported onboard ROM.
 
+## Available for purchase now
+<img src="Pictures/sc-keros-store.png" width="300px"><BR><BR>
+You can buy it in [our store](https://en.infinityproducts.co.jp/shop-1). Bare PCB and complete finished product.
+
+
 ## License
 Grappler Minus is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Your personal use is permitted, but not for sale.<BR><BR>
 The copyright and handling of "SoftSP DIY" is subject to the [MFA2 WorkShop](http://www.mfa2lab.com) license. used with permission.
