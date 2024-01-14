@@ -43,6 +43,7 @@ C1, C2, C3, C4 100nF multilayer ceramic capacitor<BR>
 C5 470pF multilayer ceramic capacitor<BR>
 C6, C7 100pF multilayer ceramic capacitor<BR><BR>
 Option: 14pin IC socket x4, 16pin IC socket x1, 24pin or 28pin IC socket(wide)<BR><BR>
+If you want to use ICs such as 74HCXX that are not CMOS, they will probably work fine, but they are fast but leaky and should be handled with care. Please try at your own risk.
 
 ### ROMS
 
