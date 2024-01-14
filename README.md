@@ -46,6 +46,8 @@ Option: 14pin IC socket x4, 16pin IC socket x1, 24pin or 28pin IC socket(wide)<B
 
 ### ROMS
 
+Wing Yeung has created a new V6-a ROM for SoftSP DIY. After we created the Grappler Minus card, he let us try it out right away. The ROMs that we have confirmed to work are SoftSP　DIY　ROM Rev. V2, V3 and V6-a.
+
 Coming soon
 
 ## Supported conputers
