@@ -29,9 +29,23 @@ https://ct6502.org/product/softsp/
 
 You can use it by compressing this [Gerber](GERBER_GH_DIY) folder and uploading it to JLCPCB as it is.
 
-## Assemble
+## Assemble and BOM
 
-Coming soon
+###BOM
+Location, Parts Number<BR>
+U1 74LS00<BR>
+U2 74LS279<BR>
+U3 74LS02<BR>
+U4 74LS08<BR>
+U5 74LS30<BR>
+U6 EPROM 2732 or 2764<BR>
+C1, C2, C3, C4 100nF multilayer ceramic capacitor<BR>
+C5 470pF multilayer ceramic capacitor<BR>
+C6, C7 100pF multilayer ceramic capacitor<BR><BR>
+Option: 14pin IC socket x4, 16pin IC socket x1, 24pin or 28pin IC socket(wide)<BR><BR>
+
+###ROMS
+
 
 ## Supported conputers
 
