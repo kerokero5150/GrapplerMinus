@@ -31,7 +31,7 @@ You can use it by compressing this [Gerber](GERBER_GH_DIY) folder and uploading 
 
 ## Assemble and BOM
 
-###BOM
+### BOM
 Location, Parts Number<BR>
 U1 74LS00<BR>
 U2 74LS279<BR>
@@ -44,8 +44,9 @@ C5 470pF multilayer ceramic capacitor<BR>
 C6, C7 100pF multilayer ceramic capacitor<BR><BR>
 Option: 14pin IC socket x4, 16pin IC socket x1, 24pin or 28pin IC socket(wide)<BR><BR>
 
-###ROMS
+### ROMS
 
+Coming soon
 
 ## Supported conputers
 
