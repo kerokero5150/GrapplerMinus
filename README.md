@@ -68,10 +68,10 @@ The copyright and handling of "SoftSP DIY" is subject to the [MFA2 WorkShop](htt
 
 I would like to express many thanks to the following our friends. They helped with this project:
 
-Wing Yeung, MFA2 WorkShop(Aka.KbooHK)
-Chris Torrence, Assembly Lines
-Bradly Bell (Aka. BTB)
-Petar Puskarich 
+Wing Yeung, MFA2 WorkShop(Aka.KbooHK)<BR>
+Chris Torrence, Assembly Lines<BR>
+Bradly Bell (Aka. BTB)<BR>
+Petar Puskarich <BR>
 
 
 
