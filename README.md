@@ -11,9 +11,9 @@ I didn't know the structure of Grappler Plus in the early stages, so I turned my
 
  <img src="Pictures/IMG_8986.jpeg" width="500px"><BR><BR>
 
-Our SPIISD worked fine with Grapplerplus on SoftSP, but IIplus would never boot. Also, since Grapplerplus has a useless circuit because it is a printer interface, so they are electrically interfering and delaying Lyle's timing. And by removing these extra circuits, the timing of the 10 smart port redirects may be improved.<br><br>
+Our SPIISD worked fine with Grappler Plus on SoftSP DIY V2 and V3, but Apple IIplus would never boot with any ROM Rev. Also, since Grappler Plus has a useless circuit because it is a printer interface, so they are electrically interfering and delaying Lyle's timing. And by removing these extra circuits, the timing of the 10 smart port redirects may be improved.<br><br>
 
-In our testing, [SPIISD](https://github.com/kerokero5150/SP2SD_DIY_KIT) and GrapplerMinus worked on the Apple IIPlus, which had never worked before! Of course it works like a feather on IIe as well.
+In our testing, [SPIISD](https://github.com/kerokero5150/SP2SD_DIY_KIT) and Grappler Minus worked on the Apple IIPlus, which had never worked before! Of course it works like a feather on Apple IIe as well.
 
 ## SoftSP DIY 
 
