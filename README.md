@@ -7,7 +7,7 @@
 
 # Grappler Minus
 
-I didn't know the structure of Grappler Plus in the early stages, so I turned my attention to Brad Bell 's clone project on the GitHub. I also asked Brad if he would allow me to redesign the Grappler Plus PCB by removing the interface for this purpose. He was kind and allowed it,and fork from his repository.<br><br>
+I didn't know the structure of Grappler Plus in the early stages, so I turned my attention to Brad Bell 's clone project on the GitHub. I also asked Brad if he would allow me to redesign the Grappler Plus PCB by removing the interface for this purpose. He was kind and allowed it, and I forked from his repository.<br><br>
 
  <img src="Pictures/IMG_8986.jpeg" width="500px"><BR><BR>
 
