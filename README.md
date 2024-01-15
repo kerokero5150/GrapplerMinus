@@ -15,6 +15,12 @@ Our SPIISD worked fine with Grappler Plus on SoftSP DIY V2 and V3, but Apple IIp
 
 In our testing, [SPIISD](https://github.com/kerokero5150/SP2SD_DIY_KIT) and Grappler Minus worked on the Apple IIPlus, which had never worked before! Of course it works like a feather on Apple IIe as well.
 
+## Advantages of Grappler Minus
+
+- Not as difficult to obtain as Grappler Plus, anyone can create it for themselves for free!
+- In the last version, all parts have been changed to DIP parts, so soldering is not difficult even for enthusiasts.
+- You can try out Smartport without a Liron card. Your investment is minimal.
+
 ## SoftSP DIY 
 
 This card is designed to use "SoftSP DIY" ROM.
