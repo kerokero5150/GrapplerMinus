@@ -7,7 +7,10 @@
 
 # Grappler Minus
 
-I didn't know the structure of Grappler Plus in the early stages, so I turned my attention to Brad Bell 's clone project on the GitHub. I also asked Brad if he would allow me to redesign the Grappler Plus PCB by removing the interface for this purpose. He was kind and allowed it, and I forked from his repository.<br><br>
+The Grappler Plus was originally a printer interface card, but in recent years no one wanted to use it. However, after Wing Yeung came up with the idea of a repurposed ROM, Grappler Plus' popularity resurfaced.<BR>
+Grappler Minus is a clone of Grappler Plus without printer interface functionality. This card does not function on its own. Used in conjunction with Apple's genuine DiskII controller card. It is a card that acts like an interpreter, changing the DiskII controller card to support Smartport like the Liron card.<BR><BR>
+
+The reason for developing this... I didn't know the structure of Grappler Plus in the early stages, so I turned my attention to Brad Bell 's clone project on the GitHub. I also asked Brad if he would allow me to redesign the Grappler Plus PCB by removing the interface for this purpose. He was kind and allowed it, and I forked from his repository.<br><br>
 
  <img src="Pictures/IMG_8986.jpeg" width="500px"><BR><BR>
 
