@@ -53,7 +53,7 @@ U2 74LS279<BR>
 U3 74LS02<BR>
 U4 74LS08<BR>
 U5 74LS30<BR>
-U6 EPROM 2732 or 2764<BR>
+U6 EPROM 2732 or 2764 (*SoftSP DIY ROM flashes to this EPROM.)<BR>
 C1, C2, C3, C4 100nF multilayer ceramic capacitor<BR>
 C5 470pF multilayer ceramic capacitor<BR>
 C6, C7 100pF multilayer ceramic capacitor<BR><BR>
