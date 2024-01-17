@@ -30,6 +30,12 @@ This card is designed to use "SoftSP DIY" ROM.
 SoftSP DIY is a product of Wing Yeung, MFA2 WorkShop(Aka.KbooHK) and used with permission.
 http://www.mfa2lab.com
 
+<BR><BR>
+
+Latest ROM version is [V6-a](SoftSP-ROMs/softsp-DIY-v6-a.bin), improved timing and different disk slot code can be generated from the utility program.<BR><BR>
+
+
+
 Chris Torrence 's store CT6502 sells SoftSP. I recommend this if you want a complete SoftSP:
 https://ct6502.org/product/softsp/
 
