@@ -65,7 +65,7 @@ If you want to use ICs such as 74HCXX that are not CMOS, they will probably work
 Wing Yeung has created a new V6-a ROM for SoftSP DIY. After we created the Grappler Minus card, he let us try it out right away. The [ROMs](https://github.com/kerokero5150/GrapplerMinus/tree/main/SoftSP-ROMs) that we have confirmed to work are SoftSP DIY ROM V2, V3 and V6-a. 
 
 
-## Supported conputers
+## Supported computers
 
 Apple IIPlus, Apple IIe
 *Apple ///: Possibly bootable if supported onboard ROM.
