@@ -75,8 +75,9 @@ Apple IIPlus, Apple IIe
 This is designed to work with our product SPIISD, Please note the following points:<BR>
 - it is known that the Grappler Minus card does not work with MFA2 WorkShop's WDrive due to timing issues.  <BR>
 - SoftSP DIY ROM on the Grappler Plus printer card, and SPIISD have limited functionality and cannot be used with IIPlus. There is a mutual timing issue.<BR>
-- BMOW's FloppyEMU is not structured to block the 5V inflow at pin 12, so it will destroy its CPLD. 
-<BR>
+- BMOW's FloppyEMU is not structured to block the 5V inflow at pin 12, so it will destroy its CPLD. <BR>
+
+
 ## Available for purchase now
 <img src="Pictures/sc-keros-store.png" width="300px"><BR><BR>
 You can buy it in [our store](https://en.infinityproducts.co.jp/shop-1). Bare PCB and complete finished product.
