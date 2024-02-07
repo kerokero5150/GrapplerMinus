@@ -79,7 +79,7 @@ Apple IIPlus, Apple IIe
 ## Known issues
 
 This is designed to work with our product SPIISD, Please note the following points:<BR>
-- It is known that the Grappler Minus card does not work with MFA2 WorkShop's WDrive due to timing issues.  <BR>
+- It is known that the Grappler Minus card does not work with MFA2 WorkShop's WDrive due to timing issues. This is because there was a router error in one place, but it can be easily fixed. In addition, it works normally with SPIISD. <BR>
 This issue was solved by Wing Yeung, plx see my [blog](https://ameblo.jp/keroxiee1016/entry-12838344596.html)<BR><BR>
 - When using BMOW's Floppy EMU, there is an inflow of 12Pin +5V, which will fry the FloppyEMU's CPLD chip XC9572XL-10VQG44. To prevent this, it is necessary to cut pin 12, but this is not recommended as there are still many accidents. Please do everything at your own risk. <BR>
 
