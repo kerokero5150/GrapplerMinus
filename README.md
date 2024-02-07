@@ -70,13 +70,18 @@ Wing Yeung has created a new V6-a ROM for SoftSP DIY. After we created the Grapp
 Apple IIPlus, Apple IIe
 *Apple ///: Possibly bootable if supported onboard ROM.
 
+## Suported Devices
+
+- SPIISD<BR><BR>
+- wDrive<BR><BR>
+*We do not support BMOW's FloppyEMU. Please read the Known issues below for the reason.
+
 ## Known issues
 
 This is designed to work with our product SPIISD, Please note the following points:<BR>
 - It is known that the Grappler Minus card does not work with MFA2 WorkShop's WDrive due to timing issues.  <BR>
 This issue was solved by Wing Yeung, plx see my [blog](https://ameblo.jp/keroxiee1016/entry-12838344596.html)<BR><BR>
-- SoftSP DIY ROM on the Grappler "Plus" printer card, and SPIISD have limited functionality and cannot be used with IIPlus. There is a mutual timing issue.<BR>
-- BMOW's FloppyEMU is not structured to block the 5V inflow at pin 12, so it will destroy its CPLD. For safe use, we do not recommend using them together.<BR>
+- When using BMOW's Floppy EMU, there is an inflow of 12Pin +5V, which will fry the FloppyEMU's CPLD chip XC9572XL-10VQG44. To prevent this, it is necessary to cut pin 12, but this is not recommended as there are still many accidents. Please do everything at your own risk. <BR>
 
 
 ## Available for purchase now
