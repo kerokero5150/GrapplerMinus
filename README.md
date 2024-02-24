@@ -43,6 +43,8 @@ https://ct6502.org/product/softsp/
 ## Gerber files
 
 You can use it by compressing this [Gerber](GERBER_GH_DIY) folder and uploading it to JLCPCB as it is.
+Updated PCB files. Includes router error fixes, please check this [V.1.4](GERBER_GH_DIY_1.4)
+
 
 ## Assemble and BOM
 
