@@ -42,7 +42,7 @@ https://ct6502.org/product/softsp/
 
 ## Gerber files
 
-Feb 24 2024, Updated PCB files. Includes router error fixes, please check this [V.1.4](GERBER_GH_DIY_1.4) <BR><BR>
+Feb 24 2024, Updated PCB files. Includes router error fixes, please check this [V.1.4b](Gerber_GH_DIY_1.4b) <BR><BR>
 You can use it by compressing this [Gerber](GERBER_GH_DIY) folder and uploading it to JLCPCB as it is.
 
 
