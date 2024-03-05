@@ -89,7 +89,8 @@ This issue was solved by Wing Yeung, plx see my [blog](https://ameblo.jp/keroxie
 
 ## Available for purchase now
 <img src="Pictures/sc-keros-store.png" width="300px"><BR><BR>
-You can buy it in [our store](https://en.infinityproducts.co.jp/shop-1). Bare PCB and complete finished product.
+You can buy it in [our store](https://en.infinityproducts.co.jp/shop-1). Bare PCB and complete finished product.<BR><BR>
+Kero's Mac Mods store is currently selling revision V1.5b. The difference between V1.5 and V1.4 is whether 74LS02 is present or not, but this will not be uploaded to GitHub for a while. Because the cloner is listing it on eBay.
 
 
 ## License
